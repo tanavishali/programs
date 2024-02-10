@@ -6,6 +6,6 @@ int main(){
 	getline(cin,name);
 	cout<<name;
 	cout<<"hi";
-	
+	cout<<"ji";
 	return 0;
 }
