@@ -5,5 +5,7 @@ int main(){
 	string name;
 	getline(cin,name);
 	cout<<name;
+	cout<<"hi";
+	
 	return 0;
 }
